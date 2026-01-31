@@ -1,0 +1,1 @@
+Shadow Shift is a full-stack 2D platformer built with React, Vite, and Express. Features a unique light/shadow dimension-switching mechanic, 4 challenging levels, and a particle system. Includes touch controls for mobile, PWA offline support, and a Node.js backend for score APIs. Master the shift to conquer the gauntlet!
